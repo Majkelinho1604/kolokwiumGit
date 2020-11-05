@@ -1,6 +1,4 @@
 Zmiana1
-<<<<<<< HEAD
-
-
 Zmiana6
->>>>>>> naprawaBledu
+Zmiana6
+Zmiana7
