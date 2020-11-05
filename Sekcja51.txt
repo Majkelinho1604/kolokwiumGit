@@ -10,3 +10,4 @@ także
 Zmiana2a
 Zmiana3b
 Zmiana15
+Zmiana20
