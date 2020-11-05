@@ -7,3 +7,5 @@ wraz z
 Zmiana3
 Zmiana4
 także
+Zmiana2a
+Zmiana3b
